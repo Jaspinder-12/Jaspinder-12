@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JASS1299"><img src="https://komarev.com/ghpvc/?username=JASS1299&label=Profile%20views" alt="Views" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JASS1299&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://github.com/JASS1299"><img src="https://komarev.com/ghpvc/?username=Jaspinder-12&label=Profile%20views" alt="Views" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jaspinder-12&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -39,7 +39,7 @@
 <p align="center">
   <a href="mailto:jaspinder168singh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jaspinder29"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/jaspinder-12"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Jaspinder-12"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---

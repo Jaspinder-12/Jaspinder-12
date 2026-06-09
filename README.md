@@ -77,7 +77,7 @@
 
 # 📌 Featured Projects
 
-## 🤖 AI Code Risk Analyzer
+## 🤖 VibeCode Risk Analyzer
 > AI-powered system designed to detect risky or vulnerable coding patterns and improve software reliability.
 
 - 🔍 Static analysis for identifying risky code behavior
@@ -89,7 +89,7 @@
 `Python` `AI Logic` `Security Concepts` `Automation`
 
 🔗 Repository:  
-https://github.com/Jaspinder-12/AICodeRisk-v1
+https://github.com/Jaspinder-12/VibeCode Risk Analyzer
 
 ---
 

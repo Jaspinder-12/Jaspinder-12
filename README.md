@@ -336,28 +336,29 @@ Expected Graduation: 2026
 
 ### Languages and Repo Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaspinder-12&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspinder-12&layout=compact&theme=tokyonight&hide_border=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaspinder-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspinder-12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaspinder-12&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Jaspinder-12&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaspinder-12&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaspinder-12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ### Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaspinder-12&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaspinder-12&theme=tokyo-night"/>
 </p>
 
 ### Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaspinder-12/Jaspinder-12/output/github-contribution-grid-snake.svg" alt="snake" />
+  [<img src="https://raw.githubusercontent.com/Jaspinder-12/Jaspinder-12/output/github-contribution-grid-snake.svg" alt="snake" />](https://raw.githubusercontent.com/Jaspinder-12/Jaspinder-12/output/github-contribution-grid-snake.svg)
 </p>
 
 ---

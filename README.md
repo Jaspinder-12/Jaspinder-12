@@ -346,9 +346,10 @@ Expected Graduation: 2026
   <img src="https://streak-stats.demolab.com?user=Jaspinder-12&theme=tokyonight&hide_border=true"/>
 </p>
 
-### GitHub Trophies
+# 📊 GitHub Dashboard
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaspinder-12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="./github-metrics.svg"/>
 </p>
 
 ### Activity Graph

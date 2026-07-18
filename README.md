@@ -292,7 +292,7 @@ Python • Regression Models • Visualization
 - Business insights from datasets
 - Practical application of analytics concepts
 
-### Data Science Intern — Hoping Minds
+### Data Science Intern — Hoping Minds **Jan 2024 - Jun 2024**
 - Data analysis
 - Dashboard work
 - ML practice

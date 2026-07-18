@@ -336,9 +336,9 @@ Expected Graduation: 2026
 
 ### Languages and Repo Stats
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaspinder-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+ [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaspinder-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>](https://github-readme-stats.vercel.app/api?username=Jaspinder-12&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspinder-12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspinder-12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspinder-12&layout=compact&theme=tokyonight)
 </p>
 
 ### GitHub Streak

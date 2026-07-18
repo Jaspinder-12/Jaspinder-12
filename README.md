@@ -26,7 +26,7 @@
   <a href="https://github.com/Jaspinder-12?tab=stars">
     <img src="https://img.shields.io/badge/GitHub%20Stars-Open%20Source%20Learner-orange?style=flat" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%and%Hybrid%20Roles-success?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-success?style=flat" />
 </p>
 
 ---
@@ -292,7 +292,7 @@ Python • Regression Models • Visualization
 - Business insights from datasets
 - Practical application of analytics concepts
 
-### Data Science Intern — Hoping Minds **Jan 2024 - Jun 2024**
+### Data Science Intern — Hoping Minds
 - Data analysis
 - Dashboard work
 - ML practice

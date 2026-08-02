@@ -128,7 +128,7 @@ My goal is to become a Data Scientist who can take raw data, analyze it honestly
 
 ## 📌 Featured Projects
 
-## 🤖 Vibe-Code-Risk-Analyzer
+## 🤖 Ai-Code-Risk-Analyzer
 AI-powered static code analysis for identifying risky coding patterns and helping developers write safer Python.
 
 **Highlights**

@@ -33,16 +33,17 @@
 
 ## 🚀 Recruiter Snapshot
 
-- 🎓 Final-year B.Tech Computer Science student
+- 🎓 B.Tech Computer Science and Engineering graduate
+- 💼 Data Science & Analytics Intern @ Apna Times
 - 💼 Data Science Intern @ Hoping Minds
-- 💼 Data Science & Analytics Intern @ Future Interns
+- 💼 Data Science & Analytics Intern @ InAmigos Foundation
 - 🏅 Deloitte Data Analytics Job Simulation
 - 🏅 Mastercard Cybersecurity Virtual Experience
 - 🏅 EDVANE Data Formats for Data Engineering & AI
 - 🗄 Microsoft SQL Server 2017 (Udemy)
 - 🌱 Learning FastAPI, Docker, Data Engineering, MLOps, and LLM applications
 - 📍 Punjab, India
-- 🌍 Open to Remote Opportunities
+- 🌍 Open to Remote and Onsite Opportunities
 
 ---
 

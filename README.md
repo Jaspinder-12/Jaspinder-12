@@ -292,7 +292,7 @@ Python • Regression Models • Visualization
 - Business insights from datasets
 - Practical application of analytics concepts
 
-### Data Science & Analytics Intern — Future Interns
+### Data Science & Analytics Intern — InAmigo Foundation
 **July 2026 – August 2026**
 
 - Data cleaning and exploratory analysis

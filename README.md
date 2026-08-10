@@ -284,6 +284,14 @@ Python • Regression Models • Visualization
 
 ## 💼 Experience
 
+### Data Science & Analytics Intern — Apna Times
+**July 2026 – Present**
+
+- Data cleaning and exploratory analysis
+- Dashboard creation and reporting
+- Business insights from datasets
+- Practical application of analytics concepts
+
 ### Data Science & Analytics Intern — Future Interns
 **July 2026 – August 2026**
 

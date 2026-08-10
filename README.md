@@ -142,7 +142,7 @@ AI-powered static code analysis for identifying risky coding patterns and helpin
 **Tech**
 Python • AI Logic • Security Concepts • Automation
 
-**Repository:** https://github.com/Jaspinder-12/Vibe-Code-Risk-Analyzer
+**Repository:** https://github.com/Jaspinder-12/Ai-Code-Risk-Analyzer
 
 ---
 

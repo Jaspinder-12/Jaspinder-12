@@ -1,56 +1,51 @@
-<!-- ========================= -->
+<!-- ========================================================= -->
 
-<!--  Jaspinder Singh README  -->
+<!-- Jaspinder Singh | GitHub Profile README -->
 
-<!--  Inspired by lowlighter/metrics -->
+<!-- Cybersecurity / SOC / IT Support Career Direction -->
 
-<!-- ========================= -->
+<!-- ========================================================= -->
 
-<h1 align="center">
+<div align="center">
+  <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
   Hey, I'm Jaspinder Singh
 </h1>
 
-<h3 align="center">
-  Cybersecurity/SOC Insipient
-</h3>
 
-<p align="center">
-  Building practical security skills, Python automation, and technical projects with a focus on SOC and IT support.
-</p>
 
-<p align="center">
-  <a href="https://github.com/Jaspinder-12">
-    <img src="https://komarev.com/ghpvc/?username=Jaspinder-12&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/Jaspinder-12?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jaspinder-12?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/Jaspinder-12?tab=stars">
-    <img src="https://img.shields.io/github/stars/Jaspinder-12?label=Stars&style=flat" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Entry--Level%20Cybersecurity%20Roles-success?style=flat" />
-</p>
+
+
+
+
+
+</div>
+
+👋 About Me
+
+I'm building a cybersecurity-first career path around SOC operations, security monitoring, incident investigation, and technical support.
+
+My approach is practical: learn the fundamentals, work with real logs and security tools, automate repetitive tasks with Python, and document what I learn so the work can be reproduced.
+
+My current target is an entry-level SOC / cybersecurity role, with IT Support / Technical Support as a closely related entry route.
 
 🚀 Recruiter Snapshot
 
-🎓 B.Tech in Computer Science and Engineering — 2026
+🎓 B.Tech in Computer Science & Engineering — 2026
 
-🔐 Cybersecurity-first career direction with a SOC-focused learning path
+🔐 Cybersecurity-first career direction
 
-🐍 Using Python for automation, scripting, analysis, and security tooling
+🛡️ Building toward SOC Analyst L1 / Junior SOC roles
 
-🌐 Building foundations in networking, protocols, and security concepts
+🖥️ Also targeting IT Support / Technical Support / Help Desk roles
 
-🐧 Learning Linux and Windows from a security-operations perspective
+🐍 Python for automation, analysis, and security tooling
 
-📊 Developing familiarity with SIEM, log analysis, alert investigation, and detection concepts
+🌐 Developing networking, Linux, Windows, and security fundamentals
 
-🛡️ Studying MITRE ATT&CK, incident response, threat intelligence, and SOC workflows
+📊 Learning SIEM concepts, log analysis, alert triage, and detection workflows
 
-🧪 Security labs and hands-on practice are currently in progress
-
-💻 Background in technical troubleshooting, customer support, and practical problem solving
+🧪 Building a portfolio around security-focused projects and labs
 
 📍 Punjab, India
 
@@ -58,64 +53,75 @@
 
 💡 What I Bring
 
-I like understanding how a system works before trying to fix it.
+I like solving problems from the evidence instead of guessing what happened.
 
-My current focus is turning that mindset into cybersecurity skills:
+Troubleshooting mindset from technical support work
 
-Troubleshoot technical problems methodically
+Python scripting for automation and repetitive tasks
 
-Read logs and investigate evidence instead of guessing
+SQL and structured data handling
 
-Use Python to automate repetitive technical tasks
+Security-minded software development
 
-Work with SQL for structured data and investigation support
+Log and event analysis fundamentals
 
-Understand networking and operating-system fundamentals
+Clear technical documentation
 
-Document technical findings clearly
+Ability to break large problems into smaller, testable steps
 
-Build security projects that demonstrate practical understanding
-
-Keep security in mind when designing and writing software
+Focus on learning by building rather than collecting certificates
 
 🧰 Tech Stack
 
-Languages
+Languages & Scripting
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,sql" />
-</p>
+
+
+
 
 Systems & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,docker" />
-</p>
 
-Cybersecurity & SOC
 
-<p>
-  <img src="https://img.shields.io/badge/SIEM-101010?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Defender-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-161616?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
 
-Development & Data
 
-<p>
-  <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+Security & SOC
+
+
+
+
+
+
+
+
+Development & Workflow
+
+
+
+
+
 
 🧭 Mission
 
-I want to build a career around solving technical problems and understanding how systems behave under normal and abnormal conditions.
+I want to become a job-ready SOC Analyst who can move through the full security workflow:
 
-My immediate goal is to become job-ready for an entry-level SOC Analyst / Security Operations / IT Support role by strengthening fundamentals, completing hands-on labs, and building projects that demonstrate practical skills.
+System Activity
+      ↓
+Logs & Events
+      ↓
+Detection
+      ↓
+Alert Triage
+      ↓
+Investigation
+      ↓
+Incident Response
+      ↓
+Documentation
+      ↓
+Improvement & Automation
+
+The goal is not to know every security product on earth. Civilization already has enough dashboards. The goal is to understand what the system is doing, why an alert matters, how to investigate it, and what to do next.
 
 🎯 Current Focus — 2026
 
@@ -143,355 +149,432 @@ Incident response
 
 Threat intelligence
 
-Security automation with Python
+Python security automation
 
-Technical troubleshooting
+Building hands-on SOC portfolio projects
 
-Security-focused portfolio projects
+🧪 Labs & Hands-On Practice
 
-Entry-level cybersecurity and IT support preparation
+Current status: labs are still in progress / pending.
 
-🗺️ Cybersecurity Roadmap
-
-Status
+I am deliberately keeping the roadmap honest. Coursework and reading are not being presented as completed hands-on SOC experience.
 
 Area
 
-✅
+Status
 
-Python fundamentals and reconstruction
+Goal
 
-✅
+Computer Fundamentals
 
-SQL fundamentals
+🟡 Pending
 
-🔄
+Understand core system behavior
 
-Computer fundamentals
+Networking Labs
 
-🔄
+🟡 Pending
 
-Networking
+Analyze protocols, traffic, and common network activity
 
-🔄
+Linux Labs
 
-Linux
+🟡 Pending
 
-🔄
+Commands, processes, permissions, logs, services
 
-Windows
+Windows Labs
 
-🔄
+🟡 Pending
 
-Cybersecurity fundamentals
+Events, users, processes, services, security basics
 
-🔄
+Cybersecurity Fundamentals
+
+🟡 In Progress
+
+Core concepts, threats, controls, attack surface
 
 MITRE ATT&CK
 
-🔄
+🟡 In Progress
 
-SOC fundamentals
+Map attacker behavior to techniques
 
-⏳
+SIEM Labs
 
-SIEM hands-on labs
+🟡 Pending
 
-⏳
+Ingest, search, filter, and investigate logs
 
-Log analysis labs
+Splunk Labs
 
-⏳
+🟡 Pending
 
-Threat detection labs
+Detection and investigation workflows
 
-⏳
+Microsoft Sentinel Labs
 
-Incident response labs
+🟡 Pending
 
-⏳
+KQL, analytics rules, incidents, investigations
 
-Threat intelligence labs
+Threat Detection Labs
 
-⏳
+🟡 Pending
 
-PortSwigger / web security labs
+Identify suspicious behavior from telemetry
 
-⏳
+Incident Response Labs
 
-SOC portfolio projects
+🟡 Pending
 
-🎯
+Triage, contain, investigate, document
 
-Entry-level SOC / Security Operations / IT Support role
+Threat Intelligence Labs
 
-Labs are intentionally marked as pending until they are actually completed and documented.
+🟡 Pending
+
+Enrichment and indicator analysis
+
+Web Security Labs
+
+🟡 Pending
+
+Vulnerability discovery and reporting
+
+SOC Portfolio Projects
+
+🟡 Planned
+
+Turn labs into recruiter-visible projects
+
+🧠 Cybersecurity Learning Roadmap
+
+Phase 1  → Python Reconstruction for Cybersecurity
+Phase 2  → Computer Fundamentals
+Phase 3  → Networking
+Phase 4  → Linux + Windows
+Phase 5  → Cybersecurity Fundamentals
+Phase 6  → MITRE ATT&CK
+Phase 7  → SOC Fundamentals
+Phase 8  → SIEM + Log Analysis
+Phase 9  → Threat Detection
+Phase 10 → Incident Response
+Phase 11 → Threat Intelligence
+Phase 12 → SOC Projects + Job Preparation
+
+⚙️ Engineering Principles
+
+Evidence first — inspect logs, events, code, and behavior before drawing conclusions.
+
+Fundamentals over tool collecting — understand the system behind the dashboard.
+
+Reproducibility — document steps so another person can repeat the work.
+
+Automation where useful — remove repetitive work with Python and scripting.
+
+Security by design — consider security while building, not only after something breaks.
+
+Simple beats clever — readable code is easier to troubleshoot at 2 AM, which is when computers usually choose to become philosophers.
 
 📌 Featured Projects
 
 🤖 AI Code Risk Analyzer
 
-A security-focused Python project that analyzes code for risky patterns and presents structured findings.
+Security-focused project for analyzing Python code and identifying risky coding patterns.
 
 Highlights
 
 Static code analysis
 
-Security-oriented detection logic
+Security-oriented findings
 
-Structured findings
+Structured reporting
 
-Risk-focused reporting
+Automation-focused workflow
 
-Python-based security automation
-
-Practical secure-coding concepts
+Security-aware development concepts
 
 Repository:
+
 https://github.com/Jaspinder-12/AICodeRisk-v1
 
 🧩 MGR-S Complete
 
-A modular Python engineering project focused on automation, structure, and practical software development.
+Python project focused on modular engineering, automation, and backend experimentation.
 
 Highlights
 
 Modular architecture
 
-Python automation
+Automation workflows
 
-Backend experimentation
+Backend logic
 
 Structured project organization
 
-Engineering practice
+Practical Python engineering
 
 Repository:
+
 https://github.com/Jaspinder-12/MGR-S-Complete
 
-🔎 Security Analysis & Lab Portfolio
+🔍 Security Labs Portfolio — In Progress
 
-A growing collection of cybersecurity learning work covering the concepts that support a SOC career.
+A planned collection of documented cybersecurity labs covering the transition from fundamentals to SOC-style investigations.
 
-Planned / In Progress
+Planned areas
 
-Microsoft Sentinel investigations
+Network traffic analysis
 
-Splunk dashboards and log analysis
+Linux and Windows event investigation
 
-Microsoft Defender for Cloud exercises
+SIEM searches
 
-PortSwigger web-security labs
+Detection rules
 
-MITRE ATT&CK technique mapping
+MITRE ATT&CK mapping
 
-Incident-response exercises
+Incident-response scenarios
 
-Threat-intelligence exercises
+Threat-intelligence enrichment
 
-Python security automation
+Web-security testing
 
-🧪 Hands-On Learning
+Status: 🟡 Labs pending / portfolio expansion in progress
 
-Security Labs — Pending / In Progress
+📌 Pinned Projects
 
-I am currently building practical experience through structured labs and virtual learning environments.
+These are the projects and areas I want recruiters to notice first.
 
-Current learning areas
+AI Code Risk Analyzer
+Security-focused Python analysis and automation.
 
-Microsoft Sentinel
+MGR-S Complete
+Modular Python engineering and automation work.
 
-Splunk
+SOC / SIEM Labs
+Upcoming hands-on work in Splunk, Sentinel, log analysis, and detection.
 
-Microsoft Defender for Cloud
+Web Security Labs
+Planned practical work in vulnerability discovery and reporting.
 
-PortSwigger Web Security Academy
+Security Automation
+Python scripts for repetitive investigation and analysis tasks.
 
-SOC investigation workflows
+🗺️ Portfolio Roadmap
 
-Security log analysis
+Status
 
-Threat detection
+Project / Skill Area
 
-Incident response
+✅
 
-These are kept as learning-in-progress rather than presented as completed professional experience.
+AI Code Risk Analyzer
 
-🏆 Learning & Virtual Experience
+✅
 
-Mastercard Cybersecurity Virtual Experience
+Python Foundations
 
-Commonwealth Bank cybersecurity learning experience
+✅
 
-Microsoft security learning modules
+SQL Foundations
 
-Microsoft Sentinel learning
+🟡
 
-Microsoft Defender for Cloud learning
+Networking Labs
 
-PortSwigger Web Security Academy practice
+🟡
 
-Deloitte Data Analytics Job Simulation
+Linux Security Labs
 
-EDVANE Data Formats for Data Engineering & AI
+🟡
 
-💼 Experience
+Windows Security Labs
 
-Data Science & Analytics Intern — Apana Time
+🟡
 
-July 2026 – Present
+SIEM Investigation Labs
 
-Data cleaning and exploratory analysis
+🟡
 
-Dashboard and reporting work
+Splunk Detection Labs
 
-Practical analysis of datasets
+🟡
 
-Applying structured problem-solving to real tasks
+Microsoft Sentinel Labs
 
-Data Science & Analytics Intern — InAmigo Foundation
+🟡
 
-July 2026 – August 2026
+MITRE ATT&CK Investigation Mapping
 
-Data cleaning and exploratory analysis
+🟡
 
-Dashboard creation
+Threat Detection Project
 
-Business-focused analysis
+🟡
 
-Practical application of analytics concepts
+Incident Response Project
 
-Data Science Intern — Hoping Minds
+🟡
 
-Data analysis
+Threat Intelligence Project
 
-Python-based tasks
+🟡
 
-Dashboard work
+Web Security Labs
 
-Applied machine-learning practice
+🟡
+
+Python Security Automation Toolkit
+
+🎯
+
+SOC Analyst Portfolio
+
+💼 Experience & Practical Background
+
+Data & Technical Internship Experience
+
+My earlier internships gave me practical exposure to Python, SQL, data handling, reporting, and problem-solving. Those skills are now being redirected toward cybersecurity and SOC work.
+
+Transferable Strengths
+
+Technical troubleshooting
+
+Customer and user communication
+
+Structured problem solving
+
+Python scripting
+
+SQL
+
+Documentation
+
+Working with tools and workflows
+
+Current career positioning: entry-level cybersecurity / SOC / IT Support candidate with a cybersecurity-first learning path.
 
 📜 Certifications & Learning
 
+Cybersecurity / Security
+
 Mastercard Cybersecurity Virtual Experience
 
-Commonwealth Bank Cybersecurity learning
+Commonwealth Bank Cybersecurity Virtual Experience
 
-Deloitte Data Analytics Job Simulation
+Microsoft Sentinel learning and labs — in progress
 
-EDVANE — Data Formats for Data Engineering and AI
+Microsoft Defender for Cloud learning — in progress
 
-Microsoft SQL Server 2017
+PortSwigger Web Security Academy practice — labs pending
 
-Microsoft security learning modules
+MITRE ATT&CK study — in progress
+
+Technical Foundation
+
+Python programming
+
+SQL
+
+Linux fundamentals
+
+Networking fundamentals
+
+Git & GitHub
 
 🎓 Education
 
-B.Tech in Computer Science Engineering
-Shaheed Bhagat Singh State Technical Campus / IKG PTU
-
-Graduation: 2026
+B.Tech in Computer Science & Engineering
+2026
 
 🏆 Achievements & Activities
 
 NCC Sergeant
 
-Technical troubleshooting and support experience
+Built and maintained practical Python projects
 
-Python practice and peer learning
+Mentored peers in Python and debugging
 
-Interested in cybersecurity, systems, automation, and secure software
+Interested in cybersecurity, systems, AI, and security automation
 
-Building a security-focused GitHub portfolio
+Building a public learning trail through GitHub projects and labs
 
-📈 GitHub Metrics
+📊 GitHub Dashboard
 
-Profile Activity
+Profile Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaspinder-12&theme=tokyonight" />
-</p>
 
-Languages & Repository Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaspinder-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspinder-12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+GitHub Stats
+
+
+
+
 
 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaspinder-12&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jaspinder-12/Jaspinder-12/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
+
 
 📚 Currently Learning
 
-Security Fundamentals
+Python Security Automation
+        ↓
+Networking + Protocol Analysis
+        ↓
+Linux + Windows Security Fundamentals
+        ↓
+MITRE ATT&CK
+        ↓
+SIEM + Log Analysis
+        ↓
+Threat Detection
+        ↓
+Incident Response
+        ↓
+Threat Intelligence
+        ↓
+SOC Portfolio Projects
 
-Networking
+Current Study Targets
 
-Linux
+Python for cybersecurity
 
-Windows
+Linux command line and administration
 
-Authentication
+Windows events and security concepts
 
-Authorization
+TCP/IP, DNS, HTTP/S, SSH, DHCP
 
-Common attack techniques
+Log sources and event normalization
 
-SOC Skills
+KQL fundamentals
 
-SIEM concepts
+Splunk search concepts
 
-Log analysis
+Detection engineering basics
 
 Alert triage
 
-Threat detection
+IOC analysis
 
-Incident response
-
-Threat intelligence
-
-MITRE ATT&CK
-
-Technical Skills
-
-Python automation
-
-Bash
-
-SQL
-
-Git/GitHub
-
-Troubleshooting
+Incident documentation
 
 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:jaspinder168singh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/jaspinder29">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jaspinder-12">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
+
+
 
 💡 Philosophy
 
-Learn the fundamentals. Investigate the evidence. Build practical skills. Document the result.
+Learn the fundamentals. Investigate the evidence. Build the tool. Document the result.
 
 while learning:
     study()
@@ -501,6 +584,12 @@ while learning:
     document()
     improve()
 
+<div align="center">
+
+
+
+</div>
+
 <p align="center">
-  Building toward cybersecurity one concept, one lab, and one project at a time. 🔐
+  🔐 Building toward cybersecurity one lab, log, and suspicious event at a time.
 </p>

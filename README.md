@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  AI & Data Analytics • Machine Learning • Python • SQL • Cybersecurity
+  Cybersecurity/SOC Insipient
 </h3>
 
 <p align="center">

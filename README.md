@@ -104,10 +104,6 @@ The emphasis is on fundamentals first, then hands-on security work:
 <a href="https://github.com/Jaspinder-12/MGR-S-Complete">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaspinder-12&repo=MGR-S-Complete&theme=tokyonight&hide_border=true" alt="MGR-S Complete" />
 </a>
-<a href="https://github.com/Jaspinder-12/Plagiarism-Detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaspinder-12&repo=Plagiarism-Detector&theme=tokyonight&hide_border=true" alt="Plagiarism Detector" />
-</a>
-
 </div>
 
 ### **🤖 AI Code Risk Analyzer**
